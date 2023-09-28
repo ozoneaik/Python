@@ -283,6 +283,8 @@ dateOfExpiryEN_label.pack(fill="x")
 makerName_label = tk.Label(window, text="เจ้าพนักงานออกบัตร:", font=label_font, anchor="w")
 makerName_label.pack(fill="x")
 
+print('hello_world')
+
 
 
 
